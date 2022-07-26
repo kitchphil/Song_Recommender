@@ -1,8 +1,8 @@
 ## Song Recommender
-A Song Recommender with Spotify
+Can't find any new interesting music? We can help!
 
 ## Motivation
-In a team, we created a song recommender for Spotify, Which will eventually contain an App Interface. 
+In a team, we created a song recommender, using Spotify's library and features, Which will eventually contain an App Interface. 
 
 We wanted to use clustering to recommend different genres of music recommendations which contained similar features to the input song.
 
